@@ -1,0 +1,12 @@
+
+HTML tags
+
+<nav>
+<strong>
+<em>
+<small>
+<section> vs <div> vs <article> vs <aside>
+<meta>
+
+	For all the tags above, it's mostly about sectioning your code in a more meaningful 
+way for both the programmer and most importantly, the browser.
